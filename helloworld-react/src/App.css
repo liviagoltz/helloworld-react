@@ -1,0 +1,14 @@
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color:rgb(212, 212, 255) ;
+}
+h1{
+  background-color: rgb(47, 50, 212);
+  padding: 20px;
+  border-radius: 20px;
+ color: white;
+}
